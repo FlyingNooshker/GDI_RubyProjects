@@ -1,0 +1,6 @@
+pputs "So, " + firstname + ', ' + "what's your favorite number?"
+favnumber = gets
+favnumber
+
+puts "Great!" + favnumber + "is a great number!"
+puts "But wouldn/'t " favnumber + 1 + "be better?"
